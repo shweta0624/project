@@ -1,0 +1,38 @@
+* {
+  margin: 20px;
+  padding: 0px;
+}
+#main {
+  background-color: beige;
+  height: auto;
+}
+.same {
+  height: 100px;
+  background-color: dodgerblue;
+}
+.menu {
+  background-color: pink;
+  height: 200px;
+  width: 200px;
+  text-decoration: none;
+}
+.menu ul {
+  padding: 10px;
+}
+ul li {
+  font-size: 20px;
+  color: brown;
+}
+#abc {
+  margin-top: 20px;
+  background-image: radial-gradient(white, yellow, green, pink, black);
+}
+.pic {
+  height: 420px;
+  width: 800px;
+  background-color: pink;
+  margin-top: -440px;
+  margin-left: 265px;
+  background-image: url("work.jpg");
+  background-size: cover;
+}
